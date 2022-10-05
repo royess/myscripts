@@ -8,7 +8,7 @@ alphabeta = [
     'sa', 'shi', 'su', 'se', 'so',
     'za', 'ji', 'zu', 'ze', 'zo',
     'ta', 'chi', 'tsu', 'te', 'to',
-    'da', 'ji', 'zu', 'de', 'do',
+    'da', 'de', 'do',
     'na', 'ni', 'nu', 'ne', 'no',
     'ha', 'hi', 'fu', 'he', 'ho',
     'ba', 'bi', 'bu', 'be', 'bo',
